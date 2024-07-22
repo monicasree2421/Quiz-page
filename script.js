@@ -1,0 +1,24 @@
+document.getElementById('a').addEventListener('click',function(){
+    document.getElementById('a').style.backgroundColor='red';
+});
+document.getElementById('b').addEventListener('click',function(){
+    document.getElementById('b').style.backgroundColor='red';
+});
+document.getElementById('c').addEventListener('click',function(){
+    document.getElementById('c').style.backgroundColor='red';
+});
+document.getElementById('d').addEventListener('click',function(){
+    document.getElementById('d').style.backgroundColor='green';
+});
+document.getElementById('sd').addEventListener('click',function(){
+    document.getElementById('sd').style.backgroundColor='green';
+});
+document.getElementById('sc').addEventListener('click',function(){
+    document.getElementById('sc').style.backgroundColor='red';
+});
+document.getElementById('sb').addEventListener('click',function(){
+    document.getElementById('sb').style.backgroundColor='red';
+});
+document.getElementById('sa').addEventListener('click',function(){
+    document.getElementById('sa').style.backgroundColor='red';
+});
